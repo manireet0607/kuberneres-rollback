@@ -1,13 +1,4 @@
-# CAMMAND FOR ACCOMPLISH THE PROJECT
-
-   2 docker login                                                                                                                             
-   3 docker build -f Dockerfilev1 -t manireet06/manireet/web:v1                                                                               
-   4 docker build -f Dockerfilev1 -t manireet0607/manireet:v1                                                                                 
-   5 docker build -f Dockerfilev1 -t manireet0607/manireet:v1 .                                                                               
-   6 docker build -f Dockerfilev1 -t manireet0607/manireet:v1 .                                                                               
-   7 ls                                                                                                                                       
-   8 cd .\kubernetes_practice_web\                                                                                                            
-   9 ls                                                                                                                                       
+# CAMMAND FOR ACCOMPLISH THE PROJECT                                                                                                                                                                                                                                                                                                        
   10 docker build -f Dockerfilev1 -t manireet0607/manireet:v1 .                                                                               
   11 docker build -f Dockerfilev2 -t manireet0607/manireet:v2 .                                                                               
   12 docker build -f Dockerfilev3 -t manireet0607/manireet:v3 .                                                                               
